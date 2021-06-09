@@ -1,0 +1,33 @@
+.copy_right_footer{
+    bottom: 0;
+    position: fixed;
+    line-height: 3;
+    background-color: bisque;
+    color: black;
+    width: 100%;
+    text-align: center;
+
+}
+.heading{
+    width: 100%;
+    margin-top: 0;
+    height: 200px;
+    box-shadow: 5px 5px 5px grey;
+    border-radius: 0px;
+    font-family: 'Fascinate', cursive;
+    font-size: 30px;
+}
+body{
+background-color: wheat;
+
+}
+.lol{
+    font-size: 12px;
+    font-family: 'Fascinate', cursive;
+}
+canvas{
+    border-radius: 5px;
+    border-color: olivedrab;
+    box-shadow: 5px 5px 5px grey
+    
+}
